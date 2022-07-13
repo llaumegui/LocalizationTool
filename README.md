@@ -32,7 +32,11 @@ __LE COMPONENT TEXTLOCALIZER N'EST QU'UN OUTIL SIMPLIFIÉ POUR TRADUIRE RAPIDEME
 
 Vous pouvez effectuer des traductions dans vos script sans passer par lui
 
-#CHEAT SHEET
+# NOMENCLATURE
+
+__“__ID_du_SousTitre__”,”__Texte en Français__”,”__Texte en Anglais__”,”__...__”__
+
+# CHEAT SHEET
 
 * __LocalizationSystem.GetLocalisedValue(string key)__
 
